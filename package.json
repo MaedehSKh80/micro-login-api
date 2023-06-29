@@ -1,0 +1,28 @@
+{
+  "name": "micro-login-api",
+  "version": "1.0.0",
+  "description": "Simple login API using micro Node.js framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-TAG/micro-login-api.git"
+  },
+  "keywords": [
+    "micro",
+    "login",
+    "api"
+  ],
+  "author": "JTAG and Mahi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J-TAG/micro-login-api/issues"
+  },
+  "homepage": "https://github.com/J-TAG/micro-login-api#readme",
+  "dependencies": {
+    "micro": "^10.0.1"
+  }
+}
